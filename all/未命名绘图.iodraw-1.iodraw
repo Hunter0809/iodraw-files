@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mWmWHxNPNZDArGwH9-eW-1" value="教师模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mWmWHxNPNZDArGwH9-eW-2" value="教师模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mWmWHxNPNZDArGwH9-eW-2" value="学生模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
