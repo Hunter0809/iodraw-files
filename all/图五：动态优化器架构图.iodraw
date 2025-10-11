@@ -25,10 +25,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="240" width="210" height="150" as="geometry" />
+          <mxGeometry x="280" y="240" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-7" value="蒸馏训练更新&lt;div&gt;学生模型参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="410" width="120" height="50" as="geometry" />
+          <mxGeometry x="325" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mWmWHxNPNZDArGwH9-eW-5" target="mWmWHxNPNZDArGwH9-eW-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
           <mxGeometry x="317" y="240" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RvrV_dd4tYOcMcqFgGYV-4" value="&lt;ul&gt;&lt;li&gt;硬件感知适配模块&lt;/li&gt;&lt;li&gt;上下文敏感优化模块&lt;/li&gt;&lt;li&gt;运行时性能调优模块&lt;/li&gt;&lt;li&gt;预测性适应模块&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="292" y="270" width="186" height="110" as="geometry" />
+          <mxGeometry x="292" y="270" width="186" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
