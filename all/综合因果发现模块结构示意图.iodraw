@@ -7,6 +7,9 @@
         <mxCell id="0D-Wi9BUy3k6PIzNkHZE-0" value="多模态特征输入&lt;div&gt;（图像V、文本T、音频A…&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="326" y="80" width="176" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0D-Wi9BUy3k6PIzNkHZE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
