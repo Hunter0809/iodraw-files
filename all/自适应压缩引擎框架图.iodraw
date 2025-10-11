@@ -37,7 +37,7 @@
         <mxCell id="EXPeRkGz4EnC54CLIS7r-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;混合精度量化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;高因果重要性→高位宽&lt;/li&gt;&lt;li&gt;位宽分配优化&lt;/li&gt;&lt;li&gt;渐进量化&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="323" y="190" width="181" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EXPeRkGz4EnC54CLIS7r-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 干预验证子模块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;加高斯噪声&lt;/li&gt;&lt;li&gt;特征屏蔽&lt;/li&gt;&lt;li&gt;替换特征&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EXPeRkGz4EnC54CLIS7r-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 低秩分解&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;SVD分解&lt;/li&gt;&lt;li&gt;动态定秩r&lt;/li&gt;&lt;li&gt;微调补偿&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EXPeRkGz4EnC54CLIS7r-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1">
