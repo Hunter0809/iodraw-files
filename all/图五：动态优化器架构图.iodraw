@@ -27,7 +27,7 @@
         <mxCell id="mWmWHxNPNZDArGwH9-eW-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mWmWHxNPNZDArGwH9-eW-7" value="自适应推理配置&lt;div&gt;批大小&lt;/div&gt;&lt;div&gt;精度模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mWmWHxNPNZDArGwH9-eW-7" value="自适应推理配置&lt;div&gt;&lt;ul&gt;&lt;li&gt;批大小&lt;/li&gt;&lt;li&gt;精度模式&lt;/li&gt;&lt;li&gt;计算路径&lt;/li&gt;&lt;li&gt;缓存策略&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="325" y="390" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mWmWHxNPNZDArGwH9-eW-5" target="mWmWHxNPNZDArGwH9-eW-7" edge="1">
