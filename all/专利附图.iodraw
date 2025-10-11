@@ -157,19 +157,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-43" value="因果一致性损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="450" width="100" height="20" as="geometry" />
+          <mxGeometry x="40" y="450" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-44" value="注意力转移损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="480" width="100" height="20" as="geometry" />
+          <mxGeometry x="40" y="480" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-45" value="特征对齐损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="510" width="100" height="20" as="geometry" />
+          <mxGeometry x="40" y="510" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-46" value="跨模态相关损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="540" width="100" height="20" as="geometry" />
+          <mxGeometry x="40" y="540" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-49" value="注意力转移损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="570" width="100" height="20" as="geometry" />
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-49" value="任务特定损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="570" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
