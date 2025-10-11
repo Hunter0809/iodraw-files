@@ -71,9 +71,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="290" width="280" height="130" as="geometry" />
+          <mxGeometry x="20" y="300" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-26" value="信息论度量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-26" value="因果引导剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-27" value="格兰杰因果分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
