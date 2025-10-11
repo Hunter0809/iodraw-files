@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLf4rAHvNBLY-7IqePzC-11" value="&lt;div&gt;因果图融合加权&lt;/div&gt;&lt;div&gt;（图像V、文本T、音频A…&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YLf4rAHvNBLY-7IqePzC-11" value="&lt;div&gt;因果图融合加权&lt;/div&gt;&lt;div&gt;G=w1*MI+w2*GC+w3*IE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="326" y="350" width="176" height="50" as="geometry" />
         </mxCell>
       </root>
