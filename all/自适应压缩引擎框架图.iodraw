@@ -64,11 +64,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXPeRkGz4EnC54CLIS7r-11" value="&lt;div&gt;因果图融合加权&lt;/div&gt;&lt;div&gt;G=w1*MI+w2*GC+w3*IE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EXPeRkGz4EnC54CLIS7r-11" value="压缩后学生模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="350" width="176" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="EXPeRkGz4EnC54CLIS7r-12" value="统一因果图G&lt;div&gt;（节点=特征，边=因果）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="430" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EXPeRkGz4EnC54CLIS7r-13" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
