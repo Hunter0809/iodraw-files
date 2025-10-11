@@ -67,13 +67,13 @@
         <mxCell id="YLf4rAHvNBLY-7IqePzC-11" value="&lt;div&gt;因果图融合加权&lt;/div&gt;&lt;div&gt;G=w1*MI+w2*GC+w3*IE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="326" y="350" width="176" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YLf4rAHvNBLY-7IqePzC-12" value="&lt;div&gt;因果图融合加权&lt;/div&gt;&lt;div&gt;G=w1*MI+w2*GC+w3*IE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YLf4rAHvNBLY-7IqePzC-12" value="统一因果图G&lt;div&gt;（节点=特征，边=因果）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="326" y="430" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YLf4rAHvNBLY-7IqePzC-14" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="423" y="360" as="sourcePoint" />
-            <mxPoint x="423" y="300" as="targetPoint" />
+            <mxPoint x="413" y="430" as="sourcePoint" />
+            <mxPoint x="413" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
