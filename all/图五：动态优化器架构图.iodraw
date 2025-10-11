@@ -42,6 +42,9 @@
         <mxCell id="RvrV_dd4tYOcMcqFgGYV-2" value="动态优化决策引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="317" y="240" width="136" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RvrV_dd4tYOcMcqFgGYV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
