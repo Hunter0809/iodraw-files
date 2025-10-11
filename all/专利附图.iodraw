@@ -22,7 +22,7 @@
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-6" value="统一因果图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="210" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-12" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="270" as="sourcePoint" />
             <mxPoint x="470" y="220" as="targetPoint" />
