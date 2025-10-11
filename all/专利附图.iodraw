@@ -171,12 +171,12 @@
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-49" value="任务特定损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="570" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-51" value="" style="endArrow=none;html=1;rounded=0;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.571;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nz6PBPUOlN1gTPSthEzT-43" target="Nz6PBPUOlN1gTPSthEzT-38">
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-51" value="" style="endArrow=none;html=1;rounded=0;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nz6PBPUOlN1gTPSthEzT-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="450" as="sourcePoint" />
-            <mxPoint x="280" y="400" as="targetPoint" />
+            <mxPoint x="170" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="460" />
+              <mxPoint x="170" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -202,15 +202,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="490" as="sourcePoint" />
             <mxPoint x="180" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-59" value="" style="endArrow=none;html=1;rounded=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="540" as="sourcePoint" />
-            <mxPoint x="200" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="540" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-62" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
