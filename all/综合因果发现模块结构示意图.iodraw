@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLf4rAHvNBLY-7IqePzC-9" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YLf4rAHvNBLY-7IqePzC-9" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="413" y="350" as="sourcePoint" />
             <mxPoint x="413" y="290" as="targetPoint" />
@@ -63,6 +63,9 @@
               <mxPoint x="554" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YLf4rAHvNBLY-7IqePzC-11" value="多模态特征输入&lt;div&gt;（图像V、文本T、音频A…&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="90" width="176" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
