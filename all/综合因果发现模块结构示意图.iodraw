@@ -37,7 +37,7 @@
         <mxCell id="YLf4rAHvNBLY-7IqePzC-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;格兰杰因果发现子模块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;VAR建模&lt;/li&gt;&lt;li&gt;AIC/BIC选阶&lt;/li&gt;&lt;li&gt;F检验&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="190" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YLf4rAHvNBLY-7IqePzC-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;干预验证子模块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;互信息I（X; Y）&lt;/li&gt;&lt;li&gt;传递熵T&lt;/li&gt;&lt;li&gt;条件互信息&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YLf4rAHvNBLY-7IqePzC-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;干预验证子模块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;加高斯噪声&lt;/li&gt;&lt;li&gt;特征屏蔽&lt;/li&gt;&lt;li&gt;条件互信息&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="190" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
