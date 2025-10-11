@@ -8,7 +8,7 @@
           <mxGeometry x="326" y="80" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0D-Wi9BUy3k6PIzNkHZE-2" value="信息论度量子模块&lt;div&gt;&lt;ul&gt;&lt;li&gt;互信息I&lt;/li&gt;&lt;li&gt;传递熵T&lt;/li&gt;&lt;li&gt;条件互信息&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="190" width="110" height="60" as="geometry" />
+          <mxGeometry x="230" y="190" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0D-Wi9BUy3k6PIzNkHZE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="190" width="100" height="60" as="geometry" />
@@ -21,7 +21,7 @@
             <mxPoint x="380" y="160" as="sourcePoint" />
             <mxPoint x="540" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="160" />
+              <mxPoint x="285" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
