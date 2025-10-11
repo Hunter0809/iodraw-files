@@ -28,10 +28,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-5" value="跨模态蒸馏损失组合&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;因果一致性损失：L_causal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;注意力转移损失：L_attn&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;特征对齐损失：L_feat&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;跨模态相关损失：L_corr&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;任务损失：L_task&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;总损失：&lt;span style=&quot;background-color: transparent; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13px; letter-spacing: 0.064px; text-align: start;&quot;&gt;L = Σ λ_i · L_i&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="210" height="110" as="geometry" />
+          <mxGeometry x="280" y="240" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mWmWHxNPNZDArGwH9-eW-6" value="多层级特征与注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="170" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmWHxNPNZDArGwH9-eW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
