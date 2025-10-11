@@ -19,7 +19,7 @@
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-5" value="干预验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-6" value="统一因果图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="210" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
