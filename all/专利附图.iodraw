@@ -222,7 +222,7 @@
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="630" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Nz6PBPUOlN1gTPSthEzT-94" value="因果引导剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nz6PBPUOlN1gTPSthEzT-94" value="硬件感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="640" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz6PBPUOlN1gTPSthEzT-95" value="混合精度量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
