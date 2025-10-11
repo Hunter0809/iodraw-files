@@ -45,6 +45,12 @@
         <mxCell id="RvrV_dd4tYOcMcqFgGYV-4" value="&lt;ul&gt;&lt;li&gt;硬件感知适配模块&lt;/li&gt;&lt;li&gt;上下文敏感优化模块&lt;/li&gt;&lt;li&gt;运行时性能调优模块&lt;/li&gt;&lt;li&gt;预测性适应模块&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="292" y="260" width="186" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RvrV_dd4tYOcMcqFgGYV-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384.76" y="500" as="sourcePoint" />
+            <mxPoint x="384.76" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
